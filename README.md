@@ -1,5 +1,6 @@
-# CosineSimiliarity
-JAVA版的文本相似度计算：
+# CosineSimiliarity 计算文本相似度
+
+JAVA版的余弦相似度计算：
 
 ## 调用方式：
 ```JAVA
@@ -17,3 +18,5 @@ JAVA版的文本相似度计算：
 Process finished with exit code 0
 
 ```
+
+### 分词使用IK分词器
